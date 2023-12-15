@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-ext/grid-sortable",
+    "name": "larautil/grid-sortable",
     "description": "Sort the grid data by drag and drop rows",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "grid", "sortable"],
@@ -13,7 +13,6 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": ">=1.7.2",
         "spatie/eloquent-sortable": "*"
     },
     "require-dev": {
